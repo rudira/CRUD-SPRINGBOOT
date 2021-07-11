@@ -9,6 +9,15 @@ UAS Pemrograman Java Enterprise G2
 
 Berikut beberapa tampilan dari API Spring Boot dengan menggunakan Postman
 
+BUKU ENTITY
+![7](https://user-images.githubusercontent.com/87266884/125197267-1ffbf380-e287-11eb-999e-33eb13bcc88d.png)
+![8](https://user-images.githubusercontent.com/87266884/125197274-24c0a780-e287-11eb-8cc9-406d5ccee70f.png)
+
+CONTROLLER
+![9](https://user-images.githubusercontent.com/87266884/125197354-7c5f1300-e287-11eb-86cd-0364204bbdb0.png)
+![10](https://user-images.githubusercontent.com/87266884/125197356-7f5a0380-e287-11eb-9cf5-9844925b29a9.png)
+
+POSTMAN
 POST
 ![1](https://user-images.githubusercontent.com/87266884/125196338-c3e3a000-e283-11eb-9959-8b50e03963c4.png)
 
